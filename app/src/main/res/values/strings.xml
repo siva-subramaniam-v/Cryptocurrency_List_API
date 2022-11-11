@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cryptocurrency List API</string>
+    <string name="rank">%1$d</string>
+    <string name="current_price">%1$.2f</string>
+    <string name="percentage_change">%1$.5f</string>
+    <string name="market_cap">%1$d</string>
+</resources>
